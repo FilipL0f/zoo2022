@@ -1,0 +1,32 @@
+section {
+    border: 3px solid rgb(0, 0, 0);
+    margin: 25px;
+    margin-top: 40px;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+}
+
+#sc1 {
+    background-image: url(Bilder/Personal1Redigerad.png);
+}
+
+#sc2 {
+    background-image: url(Bilder/Personal2Redigerad.png);
+}
+
+#sc3 {
+    background-image: url(Bilder/Personal3Redigerad.png);
+}
+
+#sc4 {
+    background-image: url(Bilder/Personal4Redigerad.png);
+}
+
+#sc5 {
+    background-image: url(Bilder/Personal5Redigerad.png);
+}
+
+#sc6 {
+    background-image: url(Bilder/Personal6Redigerad.png);
+}
